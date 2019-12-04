@@ -1,5 +1,10 @@
 # polka_multer
 
+```
+npm ci
+npm start
+```
+
 error we want (from my production server)
 ```
 _http_server.js:237
