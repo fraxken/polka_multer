@@ -1,0 +1,29 @@
+{
+  "name": "polka_multer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraxken/polka_multer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fraxken/polka_multer/issues"
+  },
+  "homepage": "https://github.com/fraxken/polka_multer#readme",
+  "dependencies": {
+    "@polka/send-type": "^0.5.2",
+    "make-promises-safe": "^5.1.0",
+    "mime-types": "^2.1.25",
+    "multer": "^1.4.2",
+    "polka": "^0.5.2",
+    "sharp": "^0.23.3"
+  }
+}
